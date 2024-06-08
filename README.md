@@ -1,1 +1,1 @@
-# creating-database-in-MySQL
+# peforming basic SQL commands
